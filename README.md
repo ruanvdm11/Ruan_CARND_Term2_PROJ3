@@ -1,8 +1,7 @@
 # Kidnapped Vehicle Project
 
 [//]: # (Image References)
-
-[image1]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term2_PROJ3/master/Reference Images/VideoScreenshot.PNG "VideoScreenshot"
+[image1]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term2_PROJ3/master/Reference Images/VideoScreenshot.JPG "VideoScreenshot"
 
 ## Particle Filter Implementation
 
